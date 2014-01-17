@@ -59,9 +59,14 @@ $(document).ready(function(){
 		
   		$( "#helpGeneral" ).toggle( "fade", 1000 );
 		
+		/* Ceci ne fonctionne plus sur la nouvelle version de Chrome !!
+		Donc pas sûr que ce soit encore bon pour Safari iOS :(
+		
  		for(var i=0; i<4; i++){
  			oscillators[i].oscillator.noteOn(context.currentTime);
  		};
+ 		
+ 		*/
  		$(this).fadeOut(1000);
  		$('#master').fadeIn(1000);
  		
