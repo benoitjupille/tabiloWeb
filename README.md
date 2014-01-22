@@ -10,6 +10,8 @@ How it works ?
 
 It's a musical sequencer. At the center, there is the "Master". Each other rounds are sound elements. Each element play on a definite time (1/4 or 2/4 etc...). The volume of an element is set by his distance between it and the "Master". When you click on an element, its parameters show / hide (attack, decay, release, delay time, cutoff...)
 
+<img src="http://farm4.staticflickr.com/3713/12083272234_137f845dd8_b.jpg" />
+
 Road Map : 
 =========
 
