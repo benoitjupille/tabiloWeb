@@ -21,7 +21,6 @@
  * 
 */
 
-var test;
 // Creation du context
 var contextClass = (
 	//window.AudioContext || 
